@@ -1,0 +1,11 @@
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\bin\Debug\netcoreapp2.0\myLitlleChat.deps.json
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\bin\Debug\netcoreapp2.0\myLitlleChat.runtimeconfig.json
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\bin\Debug\netcoreapp2.0\myLitlleChat.runtimeconfig.dev.json
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\bin\Debug\netcoreapp2.0\myLitlleChat.dll
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\bin\Debug\netcoreapp2.0\myLitlleChat.pdb
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\obj\Debug\netcoreapp2.0\myLitlleChat.csprojAssemblyReference.cache
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\obj\Debug\netcoreapp2.0\myLitlleChat.csproj.CoreCompileInputs.cache
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\obj\Debug\netcoreapp2.0\myLitlleChat.AssemblyInfoInputs.cache
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\obj\Debug\netcoreapp2.0\myLitlleChat.AssemblyInfo.cs
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\obj\Debug\netcoreapp2.0\myLitlleChat.dll
+c:\users\bleid\source\repos\Twitter_example\Twitter_example\obj\Debug\netcoreapp2.0\myLitlleChat.pdb

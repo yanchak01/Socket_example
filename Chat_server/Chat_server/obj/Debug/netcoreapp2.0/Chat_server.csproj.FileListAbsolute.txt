@@ -1,0 +1,11 @@
+c:\users\bleid\source\repos\Chat_server\Chat_server\bin\Debug\netcoreapp2.0\Chat_server.deps.json
+c:\users\bleid\source\repos\Chat_server\Chat_server\bin\Debug\netcoreapp2.0\Chat_server.runtimeconfig.json
+c:\users\bleid\source\repos\Chat_server\Chat_server\bin\Debug\netcoreapp2.0\Chat_server.runtimeconfig.dev.json
+c:\users\bleid\source\repos\Chat_server\Chat_server\bin\Debug\netcoreapp2.0\Chat_server.dll
+c:\users\bleid\source\repos\Chat_server\Chat_server\bin\Debug\netcoreapp2.0\Chat_server.pdb
+c:\users\bleid\source\repos\Chat_server\Chat_server\obj\Debug\netcoreapp2.0\Chat_server.csprojAssemblyReference.cache
+c:\users\bleid\source\repos\Chat_server\Chat_server\obj\Debug\netcoreapp2.0\Chat_server.csproj.CoreCompileInputs.cache
+c:\users\bleid\source\repos\Chat_server\Chat_server\obj\Debug\netcoreapp2.0\Chat_server.AssemblyInfoInputs.cache
+c:\users\bleid\source\repos\Chat_server\Chat_server\obj\Debug\netcoreapp2.0\Chat_server.AssemblyInfo.cs
+c:\users\bleid\source\repos\Chat_server\Chat_server\obj\Debug\netcoreapp2.0\Chat_server.dll
+c:\users\bleid\source\repos\Chat_server\Chat_server\obj\Debug\netcoreapp2.0\Chat_server.pdb
